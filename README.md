@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-在某不知名学校读书
-计算机相关的都感兴趣
-以后的工作可能会和Java相关
+- 在某不知名学校读书
+- 计算机相关的都感兴趣
+- 以后的工作可能会和Java相关
 
 <!--
 **breakTBB/breakTBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
