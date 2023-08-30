@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 计算机相关的都感兴趣
-- ~~以后的工作可能会和Java相关~~
-- 最近准备读研...
+- AI4TEST, TEST4AI
 
 <!--
 **breakTBB/breakTBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
